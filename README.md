@@ -8,8 +8,14 @@ A JPEG image showing the Dia diagram of the project's design to help visualize i
 With these resources, you'll have all the tools necessary to comprehend and work on the Java project.
 
 Project Description:
+
 This project simulates a Hotel Reservation System.
+It utilizes Java Swing to create a GUI so that the user can easily navigate and understand the application.
+
+The classes and its methods are documented in the Javadoc file.
+
   The features of the project contains:
+  
     (1). Create/Register a new hotel in the System 
            - You can create a Hotel object in the system and specify many room it has.
            - It can only have 50 rooms maximum but has one minimum.
